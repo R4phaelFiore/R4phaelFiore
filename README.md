@@ -1,6 +1,6 @@
 ## Olá Eu sou o Raphael Fiore 👋
 
-Estudante de programação em busca de aprimorar minhas habilidades em desenvolvimento de software.
+Estudante de programação em busca de aprimorar habilidades em desenvolvimento de software.
 
 ### Tenho Conhecimento
 
