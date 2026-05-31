@@ -6,6 +6,6 @@ Sou apaixonado por tecnologia desde cedo, quando iniciei meus estudos em program
 
 <div style="display: inline_block"><br />
 
-  <img align="center" alt="php" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />" />
+  <img align="center" alt="php" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />">
   
 </div><br>
