@@ -29,11 +29,3 @@ Atualmente, busco aprimorar minhas habilidades como desenvolvedor, trabalhando c
 <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 
 </div>
-
----
-
-### 🐍 Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/R4phaelFiore/R4phaelFiore/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
-</p>
