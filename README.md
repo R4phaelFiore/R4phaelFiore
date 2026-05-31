@@ -6,6 +6,6 @@ Sou apaixonado por tecnologia desde cedo, quando iniciei meus estudos em program
 
 <div style="display: inline_block"><br />
 
-  <img align="center" alt="css3" src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)" />
+  <img align="center" alt="css3" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" />
   
 </div><br>
