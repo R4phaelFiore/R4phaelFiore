@@ -1,6 +1,6 @@
 ## Olá Eu sou o Raphael Fiore 👋
 
-Estudante de programação em busca de aprimorar habilidades em desenvolvimento de software.
+Sou apaixonado por tecnologia desde cedo, quando iniciei meus estudos em programação por meio de plataformas de modificação de jogos multiplayer (Client Mod), experiência que despertou meu forte interesse por lógica e desenvolvimento de sistemas.
 
 ### Tenho Conhecimento
 
