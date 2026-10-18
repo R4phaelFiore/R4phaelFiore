@@ -4,9 +4,9 @@
   <tr>
     <td width="70%">
 
-Sou apaixonado por tecnologia desde cedo, quando iniciei meus estudos em programação por meio de plataformas de modificação de jogos multiplayer (ClientMod), experiência que despertou meu forte interesse por lógica e desenvolvimento de sistemas.
+Sou apaixonado por tecnologia desde cedo, e meu interesse pela programação começou com plataformas de modificação de jogos multiplayer (ClientMod), experiência que despertou minha curiosidade por lógica de programação, desenvolvimento de sistemas e resolução de problemas.
 
-Atualmente, busco aprimorar minhas habilidades como desenvolvedor, estudando tecnologias voltadas para desenvolvimento full-stack, automação e criação de soluções eficientes.
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software, com foco em tecnologias full-stack, automação e criação de soluções eficientes. Busco constantemente aprender novas ferramentas, aprimorar minhas habilidades técnicas e transformar ideias em projetos funcionais, unindo criatividade, lógica e tecnologia.
 
   </td>
   <td width="30%">
