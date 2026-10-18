@@ -6,7 +6,7 @@
 
 Sou apaixonado por tecnologia desde cedo, quando iniciei meus estudos em programação por meio de plataformas de modificação de jogos multiplayer (ClientMod), experiência que despertou meu forte interesse por lógica e desenvolvimento de sistemas.
 
-Atualmente, busco aprimorar minhas habilidades como desenvolvedor, trabalhando com tecnologias voltadas para desenvolvimento web, automação e criação de soluções eficientes.
+Atualmente, busco aprimorar minhas habilidades como desenvolvedor, estudando tecnologias voltadas para desenvolvimento full-stack, automação e criação de soluções eficientes.
 
   </td>
   <td width="30%">
